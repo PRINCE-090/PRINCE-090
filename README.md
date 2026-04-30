@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prince Kumar
 
 ## 🚀 About Me
-I am a focused learner passionate about problem solving and AI/ML.  
-Currently working on real-world projects like Plant Disease Detection.
+I am a focused learner passionate about problem-solving and AI/ML.  
+Currently working on real-world projects like Plant Disease Detection and Dsa Pattern Finder.
 
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/--prince--kumar/
