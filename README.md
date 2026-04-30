@@ -18,3 +18,6 @@ Currently working on real-world projects like Plant Disease Detection.
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-090)
+
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
