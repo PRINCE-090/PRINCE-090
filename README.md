@@ -21,3 +21,7 @@ Currently working on real-world projects like Plant Disease Detection.
 
 ![C++](https://img.shields.io/badge/C++-blue)
 ![Python](https://img.shields.io/badge/Python-yellow)
+![Javascript](https://img.shields.io/badge/Javascript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Html](https://img.shields.io/badge/Html-red)
+
