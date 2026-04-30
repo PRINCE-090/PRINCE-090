@@ -25,3 +25,5 @@ Currently working on real-world projects like Plant Disease Detection.
 ![Java](https://img.shields.io/badge/Java-red)
 ![Html](https://img.shields.io/badge/Html-red)
 
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;DSA+Learner)
+
