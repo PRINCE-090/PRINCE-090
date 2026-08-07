@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 🎓 5th-semester **B.E. Computer Science (AI & ML)** student at Chandigarh University
-- 🎯 Actively preparing for **Amazon SDE** and **AI/ML internship** interviews
+- 🎯 Actively preparing for **Full-Stack**, **SDE** and **AI/ML internship** interviews
 - 🧠 Solved **250+ problems** on LeetCode & GeeksforGeeks
 - 🏆 Scored in the **93.85th percentile** — Naukri Campus Young Turks 2025
 - 🌍 Interned on an **AI initiative for low-resource languages of Northeast India**
