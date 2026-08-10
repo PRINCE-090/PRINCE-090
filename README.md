@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+(AI+%26+ML)+Student;Preparing+for+Amazon+SDE+%26+AI%2FML+Internships;250%2B+DSA+Problems+Solved+on+LeetCode+%2F+GfG;Building+Agentic+AI+Systems+with+Real+Tool+Use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+(AI+%26+ML)+Student;Preparing+for+SDE+%26+AI%2FML+Internships;250%2B+DSA+Problems+Solved+on+LeetCode+%2F+GfG;Building+Agentic+AI+Systems+with+Real+Tool+Use)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PRINCE-090&color=2E9EF7&style=flat-square&label=Profile+Views)
 
