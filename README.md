@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Prince%20Kumar&fontSize=38&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20%26%20SDE%20Aspirant%20%7C%20Building%20real%20systems,%20not%20just%20tutorials&descAlignY=55&descSize=17&fontColor=ffffff" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Prince%20Kumar&fontSize=38&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20%26%20SDE%20Aspirant%20%7C%20Building%20real%20systems,%20not%20just%20tutorials&descAlignY=55&descSize=17&fontColor=ffffff" width="100%"/> -->
 
 <a href="https://www.linkedin.com/in/--prince--kumar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
