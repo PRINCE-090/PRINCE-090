@@ -28,11 +28,11 @@
 
 - 🎓 5th-semester **B.E. Computer Science (AI & ML)** student at Chandigarh University
 - 🎯 Actively preparing for **Full-Stack**, **SDE** and **AI/ML internship** interviews
-- 🧠 Solved **250+ problems** on LeetCode & GeeksforGeeks
+- 🧠 Solved **300+ problems** on LeetCode & GeeksforGeeks
 - 🏆 Scored in the **93.85th percentile** — Naukri Campus Young Turks 2025
 - 🌍 Interned on an **AI initiative for low-resource languages of Northeast India**
 - 🛠️ Currently building an **agentic AI system** with real tool-use, guardrails, and failure handling — not just an API wrapper
-- 📜 Certified by **Google, Columbia University, TCS, Goldman Sachs & GeeksforGeeks**
+- 📜 Certified by **Google, TCS, Goldman Sachs & GeeksforGeeks**
 
 ---
 
