@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Prince%20Kumar&fontSize=38&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20%26%20SDE%20Aspirant%20%7C%20Building%20real%20systems,%20not%20just%20tutorials&descAlignY=55&descSize=17&fontColor=ffffff" width="100%"/> -->
-
 <a href="https://www.linkedin.com/in/--prince--kumar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -16,7 +14,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+(AI+%26+ML)+Student;Preparing+for+SDE+%26+AI%2FML+Internships;250%2B+DSA+Problems+Solved+on+LeetCode+%2F+GfG;Building+Agentic+AI+Systems+with+Real+Tool+Use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Computer+Science+(AI+%26+ML)+Student;Preparing+for+SDE+%26+AI%2FML+Internships;300%2B+DSA+Problems+Solved+on+LeetCode+%2F+GfG;Building+Distributed+Systems+%26+Real+ML+Pipelines)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PRINCE-090&color=2E9EF7&style=flat-square&label=Profile+Views)
 
@@ -26,13 +24,13 @@
 
 ## 🚀 About Me
 
-- 🎓 5th-semester **B.E. Computer Science (AI & ML)** student at Chandigarh University
-- 🎯 Actively preparing for **Full-Stack**, **SDE** and **AI/ML internship** interviews
+- 🎓 **B.E. Computer Science (AI & ML)** student at Chandigarh University, graduating 2028
+- 🎯 Preparing for **SDE** and **AI/ML internship** interviews (targeting Amazon SDE, May 2027 cycle)
 - 🧠 Solved **300+ problems** on LeetCode & GeeksforGeeks
 - 🏆 Scored in the **93.85th percentile** — Naukri Campus Young Turks 2025
-- 🌍 Interned on an **AI initiative for low-resource languages of Northeast India**
-- 🛠️ Currently building an **agentic AI system** with real tool-use, guardrails, and failure handling — not just an API wrapper
-- 📜 Certified by **Google, TCS, Goldman Sachs & GeeksforGeeks**
+- 🌍 Interned as a **Full Stack Developer at Medharvix Systems**, contributing to BhasaFlow — an AI language initiative for low-resource Northeast Indian languages
+- 🛠️ Focus areas: **distributed systems**, **ML pipelines**, and **systems-level C++ engineering**
+- 📜 Certified by **Google, Columbia University, Goldman Sachs, TCS & GeeksforGeeks**
 
 ---
 
@@ -54,9 +52,9 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,git,github,vscode,linux,tensorflow,pytorch)
+![Skills](https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,spring,fastapi,mongodb,git,github,docker,vscode,linux,tensorflow,pytorch)
 
-**Also working with:** Machine Learning · Data Structures & Algorithms · System Design fundamentals
+**Also working with:** Kafka/RabbitMQ · Redis · Data Structures & Algorithms · Distributed Systems fundamentals
 
 </div>
 
@@ -68,13 +66,20 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| 🤖 **[Agentic AI System with Real Tool Use](https://github.com/PRINCE-090/agentic-ai-system)** | A multi-tool AI agent with real orchestration — task planning, tool routing, failure handling, and guardrails, rather than a thin wrapper around an API. | `Python` `LLM Orchestration` `Tool Calling` |
-| 📡 **[Deep Packet Inspection](https://github.com/PRINCE-090/deep-packet-inspection)** | A socket-level packet analyzer that inspects live network traffic for protocol- and pattern-based classification. | `Python` `Socket Programming` |
-| 🧩 **[DSA Pattern Finder](https://github.com/PRINCE-090/dsa-pattern-finder)** | A web tool that identifies the underlying algorithmic pattern (sliding window, two pointers, DP, etc.) behind a DSA problem. Deployed on Vercel. | `React` `Node.js` `Express` |
-| 🌿 **[Plant Disease Detection](https://github.com/PRINCE-090/plant-disease-detection)** | An image-classification model that detects plant diseases from leaf photos to help with early diagnosis. | `Python` `Machine Learning` |
-| 💬 **[Real-Time Chat App](https://github.com/PRINCE-090/real-time-chat-app)** | A live chat application with instant message delivery over WebSockets and persistent history. | `Node.js` `WebSockets` `MongoDB` |
+| 📡 **[Deep Packet Inspection Engine](https://github.com/PRINCE-090/deep-packet-inspection)** | A C++ packet inspection engine built to be production-grade, not just a demo — audited with AddressSanitizer/UBSan, surfacing and fixing a real segfault (constructor init-order bug) and a packet-starvation issue under load. | `C++` `Systems Programming` |
+| 👁️ **[RetinEx — AI-Assisted Diabetic Retinopathy Screening](https://github.com/PRINCE-090/retinex)** | Built for Smart India Hackathon 2026. I own the backend, API, and database layer — connecting the AI classification pipeline to the application, with strict guardrails on surfacing unreliable model outputs rather than hiding them. | `Node.js` `Express` `MongoDB` |
+| 🛡️ **[Sentinel — Fraud Detection Pipeline](https://github.com/PRINCE-090/sentinel)** | A FastAPI fraud-detection system with a 5-stage pipeline: LightGBM + Isolation Forest ensemble scoring, O(log N) velocity checks via bisect, LRU-cached KYC lookups, SHAP explainability, and a human-in-the-loop review queue. | `Python` `FastAPI` `LightGBM` |
+| 🧩 **[DSA Pattern Finder](https://github.com/PRINCE-090/dsa-pattern-finder)** | A rule-based multi-signal scoring engine that identifies the underlying algorithmic pattern (sliding window, two pointers, DP, etc.) behind a DSA problem. Deployed on Vercel. | `React` `Node.js` `Express` |
 
 📌 *More projects are pinned on my [GitHub profile](https://github.com/PRINCE-090?tab=repositories).*
+
+---
+
+## 🔨 Currently Building
+
+- 🏗️ **Distributed Key-Value Store** — my flagship systems project, built to demonstrate real distributed-systems fundamentals rather than another API wrapper
+- 🎓 **Campus Competitive Learning & Skill Benchmarking System** — a microservices-based contest/leaderboard platform (Spring Boot, Kafka, Redis, WebSockets, Docker), built as my FSD-II capstone
+- 🤖 **Agentic AI System** — a multi-tool AI agent with real task planning, tool routing, and failure handling
 
 ---
 
@@ -109,4 +114,3 @@ I'm actively looking for **SDE and AI/ML internship** opportunities — always o
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
