@@ -69,7 +69,7 @@
 | 📡 **[Deep Packet Inspection Engine](https://github.com/PRINCE-090/deep-packet-inspection)** | A C++ packet inspection engine built to be production-grade, not just a demo — audited with AddressSanitizer/UBSan, surfacing and fixing a real segfault (constructor init-order bug) and a packet-starvation issue under load. | `C++` `Systems Programming` |
 | 👁️ **[RetinEx — AI-Assisted Diabetic Retinopathy Screening](https://github.com/PRINCE-090/retinex)** | Built for Smart India Hackathon 2026. I own the backend, API, and database layer — connecting the AI classification pipeline to the application, with strict guardrails on surfacing unreliable model outputs rather than hiding them. | `Node.js` `Express` `MongoDB` |
 | 🛡️ **[Sentinel — Fraud Detection Pipeline](https://github.com/PRINCE-090/sentinel)** | A FastAPI fraud-detection system with a 5-stage pipeline: LightGBM + Isolation Forest ensemble scoring, O(log N) velocity checks via bisect, LRU-cached KYC lookups, SHAP explainability, and a human-in-the-loop review queue. | `Python` `FastAPI` `LightGBM` |
-| 🧩 **[DSA Pattern Finder](https://github.com/PRINCE-090/dsa-pattern-finder)** | A rule-based multi-signal scoring engine that identifies the underlying algorithmic pattern (sliding window, two pointers, DP, etc.) behind a DSA problem. Deployed on Vercel. | `React` `Node.js` `Express` |
+| 🧩 **[Algo Sense](https://github.com/PRINCE-090/dsa-pattern-finder)** | A rule-based multi-signal scoring engine that identifies the underlying algorithmic pattern (sliding window, two pointers, DP, etc.) behind a DSA problem. Deployed on Vercel. | `React` `Node.js` `Express` |
 
 📌 *More projects are pinned on my [GitHub profile](https://github.com/PRINCE-090?tab=repositories).*
 
