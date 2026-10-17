@@ -26,7 +26,7 @@
 
 - 🎓 **B.E. Computer Science (AI & ML)** student at Chandigarh University, graduating 2028
 - 🎯 Preparing for **SDE** and **AI/ML internship** interviews 
-- 🧠 Solved **300+ problems** on LeetCode & GeeksforGeeks
+- 🧠 Solved **500+ problems** on LeetCode & GeeksforGeeks
 - 🏆 Scored in the **93.85th percentile** — Naukri Campus Young Turks 2025
 - 🌍 Interned as a **Full Stack Developer at Medharvix Systems**, contributing to BhasaFlow — an AI language initiative for low-resource Northeast Indian languages
 - 🛠️ Focus areas: **distributed systems**, **ML pipelines**, and **systems-level C++ engineering**
